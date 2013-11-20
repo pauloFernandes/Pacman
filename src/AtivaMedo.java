@@ -1,4 +1,4 @@
-
+// Teste github paulo
 public class AtivaMedo implements Runnable {
 	Fantasma azul;
 	Fantasma amarelo;
